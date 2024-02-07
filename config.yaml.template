@@ -1,0 +1,4 @@
+ElasticSearch:
+  Address: http://es.com
+  Username: esUser
+  Password: esPassword
